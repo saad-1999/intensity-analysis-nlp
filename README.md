@@ -14,6 +14,16 @@ sentiment-analysis-flask-api/
 ├── README.md
 └── .gitignore
 
+Step-by-Step Implementation Plan:
+-Data Collection: Load the data from the provided dataset.
+-Data Preprocessing: Clean and preprocess the text data.
+-Feature Engineering: Extract relevant features from the text.
+-Model Selection and Training: Choose and train machine learning models.
+-Model Evaluation: Evaluate the models using appropriate metrics.
+-Hyperparameter Tuning: Optimize model hyperparameters.
+-Model Deployment Plan: Outline steps for deploying the model.
+-Documentation and Reporting: Prepare a detailed report and package the solution
+
 Intensity Analysis (Build your own model using NLP and Python) 
 The objective of this project is to develop an intelligent system using NLP to predict the intensity in the text reviews. By analyzing various parameters and process data, the system will predict the intensity where its happiness, angriness or sadness. This predictive capability will enable to proactively optimize their processes, and improve overall customer satisfaction.
 
